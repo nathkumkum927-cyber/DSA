@@ -20,9 +20,5 @@ Practice similar variations
 🛠️ Tech Stack
 Python
 Visual Studio Code
-📅 Progress
-Day 1: Array Basics ✅
-Day 2: (upcoming...)
-🎯 Goal
-
+Goal:
 To build strong DSA fundamentals for coding interviews, internships, and real-world problem solving.
