@@ -1,0 +1,10 @@
+class Solution(object):
+    def findMedianSortedArrays(self, nums1, nums2):
+      arr = (nums1+nums2)
+      arr.sort()
+      n = len(arr)
+      if n%2 == 1:
+         median = arr[n//2]
+      else:
+         median = (arr[n//2] + arr[(n // 2) - 1])/2.0
+      return median
